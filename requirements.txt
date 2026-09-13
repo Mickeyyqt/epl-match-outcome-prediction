@@ -1,0 +1,7 @@
+# Versions used for the project and Step 5 app. Install Jupyter separately for notebooks.
+pandas==3.0.3
+numpy==2.5.1
+scikit-learn==1.8.0
+matplotlib==3.11.0
+streamlit==1.63.0
+plotly==6.8.0
